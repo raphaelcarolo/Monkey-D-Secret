@@ -1,0 +1,36 @@
+body{
+    background-color:#3dd2e6;
+    color:rgb(0, 0, 0);
+    font-family:
+        font-family: "Concert One", sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 700px;
+        margin: 0;
+
+      }
+      
+      button{
+        background-color: #D58936;
+        color: #EAF2EF;
+        font-family: "Concert One", sans-serif;
+      }
+
+      .passo {
+        display: none;
+      }
+
+      .passo.ativo {
+        display: block;
+      }
+
+      main {
+        text-align: center;
+        max-width: 90%;
+      }
+
+      img {
+        max-width: 80%;
+      }
+      ;
